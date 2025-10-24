@@ -1,0 +1,54 @@
+{
+  "engagement-farming": {
+    "name": "Engagement Farming",
+    "description": "Accounts that post content specifically designed to maximize engagement metrics (likes, retweets, comments) through controversial takes, provocative questions, or emotional manipulation."
+  },
+  "low-effort": {
+    "name": "Low Effort",
+    "description": "Content that requires minimal effort to create - includes screenshots of text, basic image macros, simple questions, or recycled content without original thought."
+  },
+  "aislop": {
+    "name": "AI Slop",
+    "description": "Low-quality AI-generated content including generic images, formulaic text, or AI-generated responses that lack originality or human insight."
+  },
+  "cryptoslop": {
+    "name": "Crypto Slop",
+    "description": "Low-quality cryptocurrency-related content including scam coins, pump-and-dump schemes, repetitive crypto hype, or generic NFT promotion."
+  },
+  "pdfslop": {
+    "name": "PDF Slop",
+    "description": "Low-quality PDF content shared as screenshots or links - typically includes poorly formatted documents, generic PDFs, or unnecessary file attachments."
+  },
+  "ai-maximalism": {
+    "name": "AI Maximalism",
+    "description": "Accounts that promote excessive optimism about AI, claiming it will solve all problems or exaggerating AI capabilities without nuance or critical analysis."
+  },
+  "ai-doomerism": {
+    "name": "AI Doomerism",
+    "description": "Accounts that promote excessive pessimism about AI, claiming it will inevitably lead to human extinction or other catastrophic outcomes without balanced perspective."
+  },
+  "ragebait": {
+    "name": "Ragebait",
+    "description": "Content specifically designed to provoke anger or outrage, including inflammatory takes, controversial statements, or posts meant to generate hostile reactions."
+  },
+  "performative-slop": {
+    "name": "Performative Slop",
+    "description": "Content that appears virtuous or insightful but is actually shallow, done for social approval rather than genuine understanding or action."
+  },
+  "female-asian-founder-in-sf": {
+    "name": "Female Asian Founder in SF",
+    "description": "Accounts that fit the stereotypical pattern of female Asian founders in San Francisco who post generic startup content, tech bro aesthetics, or repetitive entrepreneurial narratives."
+  },
+  "male-asian-founder-in-sf": {
+    "name": "Male Asian Founder in SF",
+    "description": "Accounts that fit the stereotypical pattern of male Asian founders in San Francisco who post generic startup content, tech bro aesthetics, or repetitive entrepreneurial narratives."
+  },
+  "serial-grifter": {
+    "name": "Serial Grifter",
+    "description": "Accounts that repeatedly engage in scams, deceptive practices, or misleading claims to exploit followers for financial gain or social capital."
+  },
+  "annoying-retard": {
+    "name": "Annoying Retard",
+    "description": "Accounts that post annoying, repetitive, or low-quality content that disrupts the feed without providing value."
+  }
+}
