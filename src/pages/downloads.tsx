@@ -18,7 +18,7 @@ const browsers = [
   {
     name: 'Chrome',
     available: true,
-    href: 'https://chromewebstore.google.com/detail/slopmuter',
+    href: SEO.chromeWebStore,
     icon: <GoogleChromeIcon />,
   },
   {

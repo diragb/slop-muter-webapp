@@ -41,7 +41,7 @@ export const SEO = {
   publisher: 'SlopMuter',
   twitterHandle: '@slopmuter',
   github: 'https://github.com/diragb/slop-muter-extension',
-  chromeWebStore: 'https://chromewebstore.google.com/detail/slopmuter',
+  chromeWebStore: 'https://chromewebstore.google.com/detail/mcihoalbpibkcngfpohfolldkicapgcj',
   openGraph: {
     image: `${SITE_URL}/og-image.jpg`,
     squareImage: `${SITE_URL}/og-square.png`,
