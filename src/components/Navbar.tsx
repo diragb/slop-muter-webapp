@@ -82,6 +82,12 @@ const Navbar = () => {
                 Downloads
               </Link>
               <Link
+                href='/support'
+                className='rounded-md px-3 py-1.5 text-sm font-medium text-neutral-600 transition-colors hover:bg-neutral-100 hover:text-neutral-950'
+              >
+                Support
+              </Link>
+              <Link
                 href='https://github.com/diragb/slop-muter-extension'
                 target='_blank'
                 className='inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium text-neutral-600 transition-colors hover:bg-neutral-100 hover:text-neutral-950'
@@ -164,6 +170,13 @@ const Navbar = () => {
             className='flex items-center rounded-lg px-3 py-2.5 text-sm font-medium text-neutral-700 transition-colors hover:bg-neutral-50 hover:text-neutral-950'
           >
             Downloads
+          </Link>
+          <Link
+            href='/support'
+            onClick={closeSidebar}
+            className='flex items-center rounded-lg px-3 py-2.5 text-sm font-medium text-neutral-700 transition-colors hover:bg-neutral-50 hover:text-neutral-950'
+          >
+            Support
           </Link>
           <Link
             href='https://github.com/diragb/slop-muter-extension'

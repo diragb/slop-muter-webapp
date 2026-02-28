@@ -165,6 +165,9 @@ const SlopMuter = () => {
             <Link href='/privacy' className='transition-colors hover:text-neutral-600'>
               Privacy
             </Link>
+            <Link href='/support' className='transition-colors hover:text-neutral-600'>
+              Support
+            </Link>
             <Link href='https://x.com/slopmuter' target='_blank' className='transition-colors hover:text-neutral-600'>
               X/Twitter
             </Link>
