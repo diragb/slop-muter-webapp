@@ -55,7 +55,7 @@ const Navbar = () => {
     <>
       <header
         className={cn(
-          `fixed top-0 z-9999 flex w-full items-center justify-center transition-all duration-300 ${inter.className} font-sans`,
+          `fixed top-0 z-9999 flex w-full items-center justify-center backdrop-blur-lg transition-all duration-300 ${inter.className} font-sans`,
           scrolled
             ? 'h-14 border-b border-neutral-200/60 bg-white/80 shadow-xs backdrop-blur-xl'
             : 'h-16 bg-transparent',
